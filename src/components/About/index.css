@@ -9,3 +9,7 @@
     padding-left: 30px;
     padding-bottom: 10px;
 }
+
+#about-div > p {
+    color: #DCDCDC;
+}
