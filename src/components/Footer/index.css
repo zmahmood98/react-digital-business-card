@@ -1,0 +1,13 @@
+#footer {
+    display: flex;
+    border-radius: 0px 0px 10px 10px;
+    background-color: #161619;
+    margin-left: 490px;
+    margin-right: 490px;
+    color: white;
+    margin-top: -10px;
+    margin-bottom: 40px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    text-align: center;
+}
